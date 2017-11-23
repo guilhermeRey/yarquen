@@ -24,5 +24,5 @@
 *Restrição: 15 dias de desenvolvimento* <br >
 Participantes:
 * Daniel Klava ([github](https://github.com/danielklava/), [jogo](https://danielklava.github.io/time-crash/))
-* Mario Toledo ([github](https://github.com/github.com/mariotoledo/), [jogo](https://mariotoledo.github.io/just-tap-to-travel-in-time/))
-* Guilherme Rey ([github](https://github.com/github.com/mariotoledo/), [jogo](http://www.yarquen.com.br/timebomb/))
+* Mario Toledo ([github](https://github.com/mariotoledo/), [jogo](https://mariotoledo.github.io/just-tap-to-travel-in-time/))
+* Guilherme Rey ([github](https://github.com/guilhermeRey/), [jogo](http://www.yarquen.com.br/timebomb/))
