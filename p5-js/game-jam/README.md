@@ -10,6 +10,8 @@
 
 The **Time Bomb** game is made using **[p5.js](https://github.com/processing/p5.js)**, an open-source client-side library for creating graphic and interactive experiences, based on the core principles of Processing.
 
+[Clique here to play!](http://www.yarquen.com.br/timebomb/)
+
 --------------
 
 ### Screenshots
