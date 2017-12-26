@@ -3,7 +3,7 @@
 <div style="text-align:center">
 	<button style="padding: 15px; font-size: 16px">
     	<a href="https://www.youtube.com/yarquen" target="_blank">
-	    	Clique aqui e acesse o canal no youtube!
+	    	>>> Clique aqui e acesse o canal no youtube! <<<
         </a>
     </button>
 </div>
@@ -20,6 +20,15 @@
 | Stranger Things 2 | [https://www.youtube.com/watch?v=nCZoLo0z6Zo&t=1s](https://www.youtube.com/watch?v=nCZoLo0z6Zo) | [p5.js](https://github.com/processing/p5.js) |
 
 ## Game Jams
+### #2 - [Natal](https://www.youtube.com/watch?v=W2YfR1Ly9KQ)
+*Restrição: Uso de pelo menos um dos três mods: Santa, Drunk ou Evil* <br >
+Participantes:
+* Fabio Goto ([github](https://github.com/yuigoto/yx-jam-yarquen-xmas), [jogo](http://lab.yuiti.com.br/yarquen-jam-xmas/)
+* Guilherme Rey ([github](https://github.com/guilhermeRey/yarquen/), [jogo](http://www.yarquen.com.br/xmas/))
+* Gabriel Dantas ([github](https://github.com/gabriel-dantas98/)
+* Paulo Pereira ([github](https://github.com/gerotha/)
+* Vitor Navarro ([github](https://github.com/vnavarro/)
+
 ### #1 - [Time Travel ](https://www.youtube.com/watch?v=GJcB-tKWsJE)
 *Restrição: 15 dias de desenvolvimento* <br >
 Participantes:
