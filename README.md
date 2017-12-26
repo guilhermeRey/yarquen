@@ -23,11 +23,11 @@
 ### #2 - [Natal](https://www.youtube.com/watch?v=W2YfR1Ly9KQ)
 *Restrição: Uso de pelo menos um dos três mods: Santa, Drunk ou Evil* <br >
 Participantes:
-* Fabio Goto ([github](https://github.com/yuigoto/yx-jam-yarquen-xmas), [jogo](http://lab.yuiti.com.br/yarquen-jam-xmas/)
+* Fabio Goto ([github](https://github.com/yuigoto/yx-jam-yarquen-xmas), [jogo](http://lab.yuiti.com.br/yarquen-jam-xmas/))
 * Guilherme Rey ([github](https://github.com/guilhermeRey/yarquen/), [jogo](http://www.yarquen.com.br/xmas/))
-* Gabriel Dantas ([github](https://github.com/gabriel-dantas98/)
-* Paulo Pereira ([github](https://github.com/gerotha/)
-* Vitor Navarro ([github](https://github.com/vnavarro/)
+* Gabriel Dantas ([github](https://github.com/gabriel-dantas98/))
+* Paulo Pereira ([github](https://github.com/gerotha/))
+* Vitor Navarro ([github](https://github.com/vnavarro/))
 
 ### #1 - [Time Travel ](https://www.youtube.com/watch?v=GJcB-tKWsJE)
 *Restrição: 15 dias de desenvolvimento* <br >
